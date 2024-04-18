@@ -1,0 +1,49 @@
+.fundo{
+    background: #D2D2C0 url('../imagens/fundo.png');
+}
+.fundo2{
+background: #C5C5B2;
+padding: 20 px;
+width: 900px;
+padding-top: 15px ;
+padding-bottom: 15px
+}
+.stong{
+padding: 8px;
+text-decoration: none;
+color: #4B566A;
+font-weight: bold;
+}
+.fundo3{
+   background: #E8E8D9;
+   width: 900px;
+   padding-top: 20px;
+   padding-bottom: 5px;
+}
+.efeito1{
+    color: #828271;
+    margin-top: 5px;
+    font-weight: 900px;
+    margin-left: 15px;
+}
+.efeito2{
+    margin-left: 15px;
+
+}
+#center{
+    width: 900px;
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: center;
+    background: url(../imagens/fundo.png);
+    padding-top: 15px;
+}
+.imagem-efeito{
+    border: solid #C5C5B2 12px;
+    margin-left: 15px;
+}
+.divuau{
+    font-size:18px;
+    margin: 0px;
+    margin-left: 15px;
+}
